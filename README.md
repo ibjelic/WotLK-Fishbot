@@ -18,6 +18,10 @@ Install libraries:
 ```
 pip install -r requirements.txt
 ```
+if it still gives errors about libraries try instaling Pillow:
+```
+pip install pil
+```
 
 ## How to use?
 *Use at your own risk.*
