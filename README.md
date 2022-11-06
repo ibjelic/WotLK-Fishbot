@@ -59,10 +59,15 @@ If there is no blob, it will detect random coordinates, so this will recast it a
 
 I didn't implement any mechanisam to stop fishy, method I used to stop is, open start menu with Windows key, it crashes the program.
 
+Program outputs coordinates of blob with every frame it takes, and outputs splash if it thinks there's a splash.
+
 
 
 ## Success rate?
-Well for me its around 70-80%, but i've only used it in Northrend
+Well for me its around 70%, but i've only used it in Northrend. 
+There are missclicks sometimes, sometimes it doesnt detect movement of the blob. 
+*If you want to fix this, you can use sound detection instead of blob movement. Also you can use some better blob locating alghoritm than mine*
+
 In reality it's 0-80% depends on zone, if anything is running into frame and etc. For my purpose it leveled me from 375 to 450 in ~4 hours.
 
 
