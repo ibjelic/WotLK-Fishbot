@@ -1,16 +1,10 @@
 import pyautogui
 import win32gui
-import imutils
 import cv2
-import audioop
 import numpy as np 
 import time 
-import pyaudio
-import sys
 import win32com.client
 import win32api, win32con
-from datetime import datetime 
-import pandas as pd 
 
 
 class Fishy:
