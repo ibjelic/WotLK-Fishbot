@@ -77,5 +77,6 @@ In reality it's 0-80% depends on zone, if anything is running into frame and etc
 
 Happy fishing!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](0x74E2EDaaFE54f7b5B95483eB07e28e5DdF4f47F8)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]
+Eth
 0x74E2EDaaFE54f7b5B95483eB07e28e5DdF4f47F8
